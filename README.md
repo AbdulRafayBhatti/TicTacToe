@@ -9,7 +9,7 @@ Simple, Medium, and Hard.
 
 ---
 
-## 👤 Project Information
+## 📂 Project Information
 - **Course:** Programming Fundamentals
 - **Language:** Java  
 - **Interface:** GUI-based (JOptionPane)
