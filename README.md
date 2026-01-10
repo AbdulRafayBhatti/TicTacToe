@@ -90,8 +90,8 @@ java main
 
 ## 👨‍💻 Author
 **Abdul Rafay Bhatti**  
-- GitHub: [@EnjoyWithBhatti](https://github.com/abdullahxdev)
-- Facebook: [@Abdul Rafay Bhatti](https://github.com/abdullahxdev)
+- GitHub: [@EnjoyWithBhatti](https://github.com/EnjoyWithBhatti)
+- Facebook: [@Abdul Rafay Bhatti](https://www.facebook.com/abdulrafay.bhatti.7771/)
 - Email: rafaybhatti24@gmail.com
 
 
