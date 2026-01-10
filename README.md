@@ -38,7 +38,7 @@ Simple, Medium, and Hard.
 ## 🏗️ Project Structure
 ````
 TicTacToe/
-├── snake_game/              # Main Java Code File
+├── Main.java/              # Main Java Code File
 └── README.md                # This file
 ````
 ---
@@ -49,12 +49,12 @@ TicTacToe/
 3. Compile the program
 ```bash
 # Compile the program
-javac main.java
+javac Main.java
 ```
 4. Run the program
 ```bash
 # Run the program
-java main
+java Main
 ```
 
 ---
@@ -90,9 +90,18 @@ java main
 
 ## 👨‍💻 Author
 **Abdul Rafay Bhatti**  
+
+---
+
+
+## ⭐ Acknowledgements
+This project is developed as part of the **Programming Fundamentals** course at **COMSATS University Islamabad** under the supervision of **Dr. Majid Iqbal Khan** and **Mr. Umer Iqbal**.
+
+---
+
+## 👤 Abdul Rafay Bhatti
 - GitHub: [@EnjoyWithBhatti](https://github.com/EnjoyWithBhatti)
 - Facebook: [@Abdul Rafay Bhatti](https://www.facebook.com/abdulrafay.bhatti.7771/)
 - Email: rafaybhatti24@gmail.com
-
 
 ⭐ If you found this project helpful, please consider giving it a star! ⭐
