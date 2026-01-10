@@ -95,7 +95,7 @@ java Main
 
 
 ## ⭐ Acknowledgements
-This project is developed as part of the **Programming Fundamentals** course at **COMSATS University Islamabad** under the supervision of **Dr. Majid Iqbal Khan** and **Mr. Umer Iqbal**.
+This project is developed as part of the **Programming Fundamentals** course at **COMSATS University Islamabad** under the supervision of **Dr. Majid Iqbal Khan** and **Mr. Umar Iqbal**.
 
 ---
 
