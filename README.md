@@ -100,7 +100,7 @@ This project is developed as part of the **Programming Fundamentals** course at 
 ---
 
 ## 👤 Abdul Rafay Bhatti
-- GitHub: [@EnjoyWithBhatti](https://github.com/EnjoyWithBhatti)
+- GitHub: [@AbdulRafayBhatti](https://github.com/AbdulRafayBhatti)
 - Facebook: [@Abdul Rafay Bhatti](https://www.facebook.com/abdulrafay.bhatti.7771/)
 - Email: rafaybhatti24@gmail.com
 
